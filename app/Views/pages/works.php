@@ -45,7 +45,12 @@
         <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/products-01.jpg" alt="">
         <div class="product-item-description d-flex mr-auto">
           <div class="bg-faded p-5 rounded">
-            <p class="mb-0">We take pride in our work, and it shows. Every time you order a beverage from us, we guarantee that it will be an experience worth having. Whether it's our world famous Venezuelan Cappuccino, a refreshing iced herbal tea, or something as simple as a cup of speciality sourced black coffee, you will be coming back for more.</p>
+            <p class="mb-0">Believe Master News is an online platform for sharing current news and articles to the whole 
+              world what's currently going on in different categories and fields. BM News offers content for readers that 
+              are rich with information and easy to understand and full of knowledge. You can contribute to BM news by 
+              sharing your content to the world. <br>
+              <a href="/news">Find out Now >></a> 
+            </p>
           </div>
         </div>
       </div>
@@ -59,15 +64,15 @@
           <div class="bg-faded p-5 d-flex mr-auto rounded">
             <h2 class="section-heading mb-0">
               <span class="section-heading-upper">Believe Master</span>
-              <span class="section-heading-lower">Magic</span>
+              <span class="section-heading-lower">SOON</span>
             </h2>
           </div>
         </div>
-        <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/products-02.jpg" alt="">
+        <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0 blur" src="img/products-02.jpg" alt="">
         <div class="product-item-description d-flex ml-auto">
-          <div class="bg-faded p-5 rounded">
+          <!-- <div class="bg-faded p-5 rounded">
             <p class="mb-0">Our seasonal menu features delicious snacks, baked goods, and even full meals perfect for breakfast or lunchtime. We source our ingredients from local, oragnic farms whenever possible, alongside premium vendors for specialty goods.</p>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -79,16 +84,16 @@
         <div class="product-item-title d-flex">
           <div class="bg-faded p-5 d-flex ml-auto rounded">
             <h2 class="section-heading mb-0">
-              <span class="section-heading-upper">Belive Master</span>
-              <span class="section-heading-lower">Music</span>
+              <span class="section-heading-upper">Believe Master</span>
+              <span class="section-heading-lower">SOON</span>
             </h2>
           </div>
         </div>
-        <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/products-03.jpg" alt="">
+        <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0 blur" src="img/products-03.jpg" alt="">
         <div class="product-item-description d-flex mr-auto">
-          <div class="bg-faded p-5 rounded">
+          <!-- <div class="bg-faded p-5 rounded">
             <p class="mb-0">Travelling the world for the very best quality coffee is something take pride in. When you visit us, you'll always find new blends from around the world, mainly from regions in Central and South America. We sell our blends in smaller to large bulk quantities. Please visit us in person for more details.</p>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -101,15 +106,15 @@
           <div class="bg-faded p-5 d-flex mr-auto rounded">
             <h2 class="section-heading mb-0">
               <span class="section-heading-upper">Believe Master</span>
-              <span class="section-heading-lower">Merchandise</span>
+              <span class="section-heading-lower">SOON</span>
             </h2>
           </div>
         </div>
-        <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/products-02.jpg" alt="">
+        <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0 blur" src="img/products-04.jpg" alt="">
         <div class="product-item-description d-flex ml-auto">
-          <div class="bg-faded p-5 rounded">
+          <!-- <div class="bg-faded p-5 rounded">
             <p class="mb-0">Our seasonal menu features delicious snacks, baked goods, and even full meals perfect for breakfast or lunchtime. We source our ingredients from local, oragnic farms whenever possible, alongside premium vendors for specialty goods.</p>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -122,15 +127,15 @@
           <div class="bg-faded p-5 d-flex ml-auto rounded">
             <h2 class="section-heading mb-0">
               <span class="section-heading-upper">Belive Master</span>
-              <span class="section-heading-lower">Production</span>
+              <span class="section-heading-lower">SOON</span>
             </h2>
           </div>
         </div>
-        <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/products-03.jpg" alt="">
+        <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0 blur" src="img/products-05.jpg" alt="">
         <div class="product-item-description d-flex mr-auto">
-          <div class="bg-faded p-5 rounded">
+          <!-- <div class="bg-faded p-5 rounded">
             <p class="mb-0">Travelling the world for the very best quality coffee is something take pride in. When you visit us, you'll always find new blends from around the world, mainly from regions in Central and South America. We sell our blends in smaller to large bulk quantities. Please visit us in person for more details.</p>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -143,15 +148,15 @@
           <div class="bg-faded p-5 d-flex mr-auto rounded">
             <h2 class="section-heading mb-0">
               <span class="section-heading-upper">Believe Master</span>
-              <span class="section-heading-lower">Travel</span>
+              <span class="section-heading-lower">SOON</span>
             </h2>
           </div>
         </div>
-        <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/products-02.jpg" alt="">
+        <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0 blur" src="img/products-06.jpg" alt="">
         <div class="product-item-description d-flex ml-auto">
-          <div class="bg-faded p-5 rounded">
+          <!-- <div class="bg-faded p-5 rounded">
             <p class="mb-0">Our seasonal menu features delicious snacks, baked goods, and even full meals perfect for breakfast or lunchtime. We source our ingredients from local, oragnic farms whenever possible, alongside premium vendors for specialty goods.</p>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -163,16 +168,16 @@
         <div class="product-item-title d-flex">
           <div class="bg-faded p-5 d-flex ml-auto rounded">
             <h2 class="section-heading mb-0">
-              <span class="section-heading-upper">Belive Master</span>
-              <span class="section-heading-lower">Organisation</span>
+              <span class="section-heading-upper">Believe Master</span>
+              <span class="section-heading-lower">SOON</span>
             </h2>
           </div>
         </div>
-        <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/products-03.jpg" alt="">
+        <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0 blur" src="img/products-07.jpg" alt="">
         <div class="product-item-description d-flex mr-auto">
-          <div class="bg-faded p-5 rounded">
+          <!-- <div class="bg-faded p-5 rounded">
             <p class="mb-0">Travelling the world for the very best quality coffee is something take pride in. When you visit us, you'll always find new blends from around the world, mainly from regions in Central and South America. We sell our blends in smaller to large bulk quantities. Please visit us in person for more details.</p>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -185,15 +190,15 @@
           <div class="bg-faded p-5 d-flex mr-auto rounded">
             <h2 class="section-heading mb-0">
               <span class="section-heading-upper">Believe Master</span>
-              <span class="section-heading-lower">Community</span>
+              <span class="section-heading-lower">SOON</span>
             </h2>
           </div>
         </div>
-        <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/products-02.jpg" alt="">
+        <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0 blur" src="img/products-08.jpg" alt="">
         <div class="product-item-description d-flex ml-auto">
-          <div class="bg-faded p-5 rounded">
+          <!-- <div class="bg-faded p-5 rounded">
             <p class="mb-0">Our seasonal menu features delicious snacks, baked goods, and even full meals perfect for breakfast or lunchtime. We source our ingredients from local, oragnic farms whenever possible, alongside premium vendors for specialty goods.</p>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -205,16 +210,16 @@
         <div class="product-item-title d-flex">
           <div class="bg-faded p-5 d-flex ml-auto rounded">
             <h2 class="section-heading mb-0">
-              <span class="section-heading-upper">Belive Master</span>
-              <span class="section-heading-lower">Services</span>
+              <span class="section-heading-upper">Believe Master</span>
+              <span class="section-heading-lower">SOON</span>
             </h2>
           </div>
         </div>
-        <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/products-03.jpg" alt="">
+        <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0 blur" src="img/products-09.jpg" alt="">
         <div class="product-item-description d-flex mr-auto">
-          <div class="bg-faded p-5 rounded">
+          <!-- <div class="bg-faded p-5 rounded">
             <p class="mb-0">Travelling the world for the very best quality coffee is something take pride in. When you visit us, you'll always find new blends from around the world, mainly from regions in Central and South America. We sell our blends in smaller to large bulk quantities. Please visit us in person for more details.</p>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>

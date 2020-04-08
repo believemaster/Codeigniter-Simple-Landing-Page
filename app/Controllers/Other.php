@@ -3,6 +3,11 @@ use App\Models\contactModal;
 
 class Other extends BaseController
 {
+    public function yanikkumar()
+    {
+        return redirect()->to('https://yanikkumar.com'); 
+    }
+
     public function news()
     {
         return redirect()->to('https://news.believemaster.com'); 

@@ -79,7 +79,7 @@
               </h2>
               <p>Founded in 2014 by the Yanik Kumar, our establishment has been serving up contents in different fields started from creating contents on Youtube, learning and growing from there to reach to people in the society and provide them help in different fields.</p>
               <p class="mb-0">We guarantee that you will fall in <em>lust</em> with our work that whenever you want to find any stuff only one name will come into your mind <b>"Believe Master"</b>. You can find different different fields we are working upon. </p>
-			  <p class="mb-0">If you want to know more about the Belive Master you can reach him out at <b><a href="belivemaster.github.io" style="text-decoration: underline; color: black;">Yanik Kumar</a></b></p>
+			        <p class="mb-0">If you want to know more about the Belive Master you can reach him out at <b><a href="/yanikkumar" style="text-decoration: underline; color: black;">Yanik Kumar</a></b></p>
             </div>
           </div>
         </div>
