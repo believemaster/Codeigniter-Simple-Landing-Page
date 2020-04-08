@@ -36,6 +36,10 @@ $routes->get('/works', 'Home::works');
 $routes->get('/contact-us', 'Home::contact');
 $routes->match(['get', 'post'], '/submit', 'Contact::submit');
 
+$routes->get('/login', 'Back::index');
+$routes->match(['get', 'post'], '/enter', 'Back::login');
+$routes->match(['get', 'post'], '/list', 'Back::list');
+
 // Other Child Website Routes
 $routes->get('/yanikkumar', 'Other::yanikkumar');
 $routes->get('/news', 'Other::news');
